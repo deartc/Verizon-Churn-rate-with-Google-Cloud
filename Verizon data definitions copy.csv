@@ -1,0 +1,23 @@
+,,
+Column Name,Data Type,Definition
+customerID,String,Customer ID
+gender,Integer,Whether the customer is a male or a female
+SeniorCitizen,String,"Whether the customer is a senior citizen or not (1, 0)"
+Partner,String,"Whether the customer has a partner or not (Yes, No)"
+Dependents,String,"Whether the customer has dependents or not (Yes, No)"
+tenure,Integer,Number of months the customer has stayed with the company
+PhoneService,String,"Whether the customer has a phone service or not (Yes, No)"
+MultipleLines,String,"Whether the customer has multiple lines or not (Yes, No, No phone service)"
+InternetService,String,"Customer’s internet service provider (DSL, Fiber optic, No)"
+OnlineSecurity,String,"Whether the customer has online security or not (Yes, No, No internet service)"
+OnlineBackup,String,"Whether the customer has online backup or not (Yes, No, No internet service)"
+DeviceProtection,String,"Whether the customer has device protection or not (Yes, No, No internet service)"
+TechSupport,String,"Whether the customer has tech support or not (Yes, No, No internet service)"
+StreamingTV,String,"Whether the customer has streaming TV or not (Yes, No, No internet service)"
+StreamingMovies,String,"Whether the customer has streaming movies or not (Yes, No, No internet service)"
+Contract,String,"The contract term of the customer (Month-to-month, One year, Two year)"
+PaperlessBilling,String,"Whether the customer has paperless billing or not (Yes, No)"
+PaymentMethod,String,"The customer’s payment method (Electronic check, Mailed check, Bank transfer (automatic), Credit card (automatic))"
+MonthlyCharges,Money (USD),The amount charged to the customer monthly
+TotalCharges,Money (USD),The total amount charged to the customer
+Churn,String,Whether the customer churned or not (Yes or No)
