@@ -1,7 +1,8 @@
 # Verizon-Data-Science-Project
 
 Background and Objectives:
- Verizon-Data-Science-Project is one of the two projects I am doing with  Verizon Internet churn data. Each will be done with the same data but different programming languages.   R for this one, Python for VerizonAWS.  I will use Kaggle for the  Verizon-Data-Science-Projecte and Colab for VerizonAWS. Pycaret for VerizonAWS and possibly sklearn for the Verizon-Data-Science-Project.       
+ Verizon-Data-Science-Project is one of the two projects I am doing with  Verizon internet churn data. Each will be done with the same data but different programming languages.   R for this one, Python for VerizonAWS.  I will use Kaggle for the  Verizon-Data-Science-Project and Colab for VerizonAWS. Pycaret for VerizonAWS and possibly Sklearn for the Verizon-Data-Science-Project.  AWS SageMaker for VerizonAWS and Azure Machine Learning (ML) for the  Verizon-Data-Science-Project. Microsoft Bi will be used for visualization for this project while Tableau will be use for VerizonAWS.     
+
 Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. This public source data set has recorded information about customers at the time of their contract renewal. This project analyzes data from the marketing analytics team to examine what might lead to a customer deciding not to renew their service.
 This Verizon project has several objectives: The first objective is focusing first on customers that use Verizon for their Internet service and what makes these customers more likely to not renew their service. The second objective is identify the patterns that is found in their renewal service. The next objective is to make a recommendation on a marketing campaign around the patterns found.
 
@@ -31,6 +32,6 @@ Cleaning the data: The data was cleaned (more cleaning may be necesssary).
 
 Analyzing the data: The data was initially analyzed (more analysis may be necessary).
 
-Sharing your results: Initial results were displayed in Tableau and Matplot.
+Sharing your results: Initial results were displayed in Bi and Matplot.
 
-Future steps: 1. Refine data. Possibly do more cleaning and analysis using R or SQL 2. Use machine learning. Possibly include AWS Sage Maker to determine train/predict models. 3. Determine marketing plan based on the analysis. Human centered marketing will be addressed.
+Future steps: 1. Refine data. Possibly do more cleaning and analysis using R or SQL 2. Use machine learning. Possibly include Azure ML  to determine train/predict models. 3. Determine marketing plan based on the analysis. Human centered marketing will be addressed.
