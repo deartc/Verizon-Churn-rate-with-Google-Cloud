@@ -1,6 +1,7 @@
 # Verizon-Data-Science-Project
 
 Background and Objectives:
+
 VerizonAWS and Verizon-Data-Science-Project are two projects that are using the same Verizon  data. 
 Each will be done with the same data but differ on the following:
 
