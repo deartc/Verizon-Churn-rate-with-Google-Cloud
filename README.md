@@ -26,7 +26,7 @@ Category 2: Data Display
 
 (Matplot Colab) Matplot scatter diagram A. Excel data files scatter diagram of B. Histogram C. Correlation Charts
 
-(Microsoft Bi) Bi A. Internet Churn Retention Rate Based on Gender and Dependents B. Multiple Lines Chart including internet C. Intenet Churn Rate Total
+(Microsoft Bi)  A. Internet Churn Retention Rate Based on Gender and Dependents B. Multiple Lines Chart including internet C. Intenet Churn Rate Total
 
 
 
