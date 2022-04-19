@@ -3,11 +3,9 @@
 Background and Objectives:
  Verizon-Data-Science-Project is one of the two projects I am doing with  Verizon internet churn data. Each will be done with the same data
  but differ on the following:  
- Programming Language:  R- Verizon-Data-Science-Project               Python-  VerizonAWS.  
- Online Platform: Kaggle -Verizon-Data-Science-Project               Colab - VerizonAWS.
  Visualization - Microsoft Bi - Verizon-Data-Science-Project         Tableau - VerizonAWS.     
- Azure Machine Learning (ML) - Verizon-Data-Science-Project.         Amazon Sage Maker - VerizonAWS
- Pycaret for VerizonAWS and possibly Sklearn for the Verizon-Data-Science-Project.
+ Azure Machine Learning (ML) -  Verizon-Data-Science-Project.        Amazon Sage Maker - VerizonAWS
+ 
  
 
 Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. This public source data set has recorded information about customers at the time of their contract renewal. This project analyzes data from the marketing analytics team to examine what might lead to a customer deciding not to renew their service.
