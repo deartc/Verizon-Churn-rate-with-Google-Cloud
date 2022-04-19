@@ -9,7 +9,7 @@ Azure Machine Learning/ML( Verizon-Data-Science-Project).          Amazon Sage M
  
  
 
-Current Status is in the planning stages so the following is anticipated steps but have not been completed:
+Current Status is in the planning stages so the following are anticipated steps but have not been completed:
 
 Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. This public source data set has recorded information about customers at the time of their contract renewal. This project analyzes data from the marketing analytics team to examine what might lead to a customer deciding not to renew their service.
 This Verizon project has several objectives: The first objective is focusing first on customers that use Verizon for their Internet service and what makes these customers more likely to not renew their service. The second objective is identify the patterns that is found in their renewal service. The next objective is to make a recommendation on a marketing campaign around the patterns found.
