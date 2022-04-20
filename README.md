@@ -5,7 +5,11 @@ Background and Objectives:
 VerizonAWS and Verizon-Data-Science-Project are two projects that are using the same Verizon  data. 
 Each will be done with the same data but differ on the following:
 
+VISUAL:
 Microsoft Bi (Verizon-Data-Science-Project).                       Tableau (VerizonAWS)     
+
+
+ADVANCED ANALYSIS:
 Azure Machine Learning/ML( Verizon-Data-Science-Project).          Amazon Sage Maker(VerizonAWS)
  
  
@@ -42,6 +46,7 @@ Cleaning the data: The data was cleaned (more cleaning may be necesssary).
 
 Analyzing the data: The data was initially analyzed (more analysis may be necessary).
 
-Sharing your results: Initial results were displayed in Bi and Matplot.
+Sharing your results: Initial results were displayed in Bi and Matplot.  
+
 
 Future steps: 1. Refine data. Possibly do more cleaning and analysis using  SQL 2. Use machine learning. Possibly include Azure ML  to determine train/predict models. 3. Determine marketing plan based on the analysis. Human centered marketing will be addressed.
