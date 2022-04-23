@@ -22,6 +22,7 @@ The visuals in Tableau can be accessed by clicking on link.
 
 
 
+
 Category 1: Utilize External Data:
 
 Excel data files A. Data file cleaned B. Statistical analysis of data: Mean, Median, Mode C. Summary of relevant data files listed and analyzed D. Excel data plotted using matplotlib
@@ -30,8 +31,10 @@ Category 2: Data Display
 
 (Matplot Colab) Matplot scatter diagram A. Excel data files scatter diagram of B. Histogram C. Correlation Charts
 
-(Microsoft Bi)  A. Internet Churn Retention Rate Based on Gender and Dependents B. Multiple Lines Chart including internet C. Intenet Churn Rate Total
+  A. Internet Churn Retention Rate Based on Gender and Dependents B. Multiple Lines Chart including internet C. Intenet Churn Rate Total
 
+
+https://public.tableau.com/views/TERESAHAWKINSVERIZONPROJECT/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 Status of project and future steps:
