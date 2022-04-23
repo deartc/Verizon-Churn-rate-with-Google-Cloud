@@ -5,8 +5,6 @@ Background and Objectives:
 VerizonAWS and VerizonAzure are two projects that are using the same Verizon  data. 
 Each will be done with the same data but differ on the following:
 
-VISUAL:
-Microsoft Bi (VerizonAzure).                       Tableau (VerizonAWS)     
 
 
 ADVANCED ANALYSIS:
@@ -20,9 +18,9 @@ This Verizon project has several objectives: The first objective is focusing fir
 To run the project do the following: Clone github.com/deartc/VerizonAzure. To run the Colab portion which lists the data of my project, go to VerizonAzureProject.ipynb and use the Colab link to open up in Colab. Once open use runtime tab then the option "run all" to update data. Answer yes when prompted by this warning: "This notebook was not authored by Google." If you wish to alter or use file follow the instructions listed. "Please make a copy of this notebook before using it. Go to Files > Save a Copy in Drive" I used the following imported libraries: pandas, matplotlib,sns, re datetime, datasets, and data_table in the project.
 
 
-Current Status is in the planning stages so the following are anticipated steps but have not been completed:
+The visuals in Tableau can be accessed by clicking on link.
 
-Power Bi can be accessed by clicking on the link. The three charts can then be accessed by clicking on the tabs at the top.
+
 
 Category 1: Utilize External Data:
 
