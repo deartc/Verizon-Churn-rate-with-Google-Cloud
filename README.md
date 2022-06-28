@@ -53,7 +53,7 @@ Sharing your results:      Initial results were displayed in Tableau and Matplot
 
 Future steps:             1. Refine data. Possibly do more cleaning and analysis using SQL. 
                           2. Use machine learning. Possibly  include Azure MachineLearning (ML) to determine train/predict models  (Started in May, 2022).
-                          3. Determine marketing plan based on the analysis.  (UX  marketing class and project started in May, 2022).  
+                          3. Determine marketing plan based on the analysis.  (UX  marketing class and project started in Juky, 2022).  
 
 
 
