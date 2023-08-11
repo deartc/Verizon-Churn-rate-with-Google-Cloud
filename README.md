@@ -72,3 +72,6 @@ Google Analytical Visual tools:  I need to learn more to use
 
 
 
+Status of my progress in the  Ace Program : I need to complete 10 labs.  I work rotating swing shift (for the first month of the  program I worked unexpectely 84 hour swing shifts) so I have to plan to take labs when I am alert or I fail them because I am too sleepy to catch small details.  I prioritized the videos over labs to complete three related certifications that had deadlines that helped me put the material into context.  I have completed online long term formal programs in AZure and AWS cloud so I have foundational cloud knowledge. I tried to get hands on  a limited basis in the past. I took Cloud Guru Google Cloud Foundational training In December and reviewed their limited updated content on ACE certification in June.  I signed up  taking Dan Sullivan's two day course on ACE in the two weeks.  I am overwhelmed by the information and I need to take tests and review material to feel comfortable.  
+
+
