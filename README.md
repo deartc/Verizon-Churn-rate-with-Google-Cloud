@@ -1,25 +1,16 @@
-# VerizonGoogle
+Verizon Google
 
 Background and Objectives:
 
-VerizonGoogle, VerizonAWS and VerizonAzure are three projects that are using the same Verizon data. 
-Each will be done with the same data but differ on the following:
-
-
+VerizonGoogle, VerizonAWS, and VerizonAzure are three projects that are using the same Verizon data. 
+Each will be done with the same data but use the ML in each specific cloud. 
 
 ADVANCED ANALYSIS:
 Google Machine Learning/ML        
  
  
 
-Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. This public source data set has recorded information about customers at the time of their contract renewal. This project analyzes data from the marketing analytics team to examine what might lead to a customer deciding not to renew their service.
-This Verizon project has several objectives: The first objective is focusing first on customers that use Verizon for their Internet service and what makes these customers more likely to not renew their service. The second objective is to identify the patterns that are found in their renewal service. The next objective is to make a recommenda1. Use more concise language to make the text easier to understand and follow. For example, instead of saying "This project analyzes data from the marketing analytics team to examine what might lead to a customer deciding not to renew their service," say "The project examines factors that influence customer churn rates."
-
-2. Provide more context around the objectives of the project to help readers understand the significance of the research. For example, explain why it's important for Verizon to reduce customer churn rates and how this project fits into the company's overall strategy.
-
-3. Include more specific details about the data analysis process, such as how the data was collected, how it was cleaned, and what statistical methods were used. This will help readers understand the rigor of the research and have more confidence in the findings on a marketing campaign around the patterns found.
-
-To run the project do the following: Clone github.com/deartc/VerizonAzure. To run the Colab portion which lists the data of my project, go to VerizonAzureProject.ipynb and use the Colab link to open up in Colab. Once open use runtime tab then the option "run all" to update data. Answer yes when prompted by this warning: "This notebook was not authored by Google." If you wish to alter or use file follow the instructions listed. "Please make a copy of this notebook before using it. Go to Files > Save a Copy in Drive" I used the following imported libraries: pandas, matplotlib,sns, re datetime, datasets, and data_table in the project.
+Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. This public source data set has recorded information about customers at the time of their contract renewal. The project examines factors that influence customer churn rates.
 
 
 The visuals in Tableau can be accessed by clicking on link.
@@ -35,7 +26,7 @@ Category 2: Data Display
 
 (Matplot Colab) Matplot scatter diagram A. Excel data files scatter diagram of B. Histogram C. Correlation Charts
 
-  A. Internet Churn Retention Rate Based on Gender and Dependents B. Multiple Lines Chart including internet C. Intenet Churn Rate Total
+  A. Internet Churn Retention Rate Based on Gender and Dependents B. Multiple Lines ChartincludingInternett C. Intenet Churn Rate Total
 
 
 https://public.tableau.com/views/TERESAHAWKINSVERIZONPROJECT/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
@@ -45,19 +36,44 @@ https://public.tableau.com/views/TERESAHAWKINSVERIZONPROJECT/Dashboard1?:languag
 
 Status of project and future steps:
 
-Defining the question:  What  makes these customers more likely to not renew their service and to identify the patterns and then recommend  a marketing campaign?                             
-Collecting the data:      The Verizon data was found and dataset included in Github repository.
+Defining the question:  What  makes these customers more likely to not renew their service and identify the patterns and then recommend a marketing campaign?                             
+Collecting the data:      The Verizon data was found and the dataset was included in Github repository.
 
-Cleaning the data:        The data was cleaned (more cleaning may be necesssary).
+Cleaning the data:        The data was cleaned (more cleaning may be necessary).
 
 Analyzing the data:       The data was initially analyzed (more analysis may be necessary).
 
 Sharing your results:      Initial results were displayed in Tableau and Matplot. 
 
 
-Future steps:             1. Refine data. Possibly do more cleaning and analysis using SQL. 
-                          2. Use machine learning. Possibly  include Azure MachineLearning (ML) to determine train/predict models  (Started in May, 2022).
-                          3. Determine marketing plan based on the analysis.  (UX  marketing class and project started in Juky, 2022).  
+Future steps:            
+
+  
+ 1.  I am using these projects to learn more hands-on about the cloud.  I wanted to show hands-on learning about machine learning using three cloud providers:  AWS ML, Azure ML (Sage Maker,) and Google ML.  (I have never even attempted this and need direction on how to do it as a beginner. I would love to focus on this since this is something I am having a problem breaking down on how to learn how to do it.)   I took a FinOps class and recently passed the certification recommended by a former mentor (who helped me obtain free training and a certification voucher)  to feel more comfortable with billing.   I am trying to use the free Google Cloud lab access to get to the stage of passing the certification test and eventually feel comfortable enough to set up my account with billing parameters.  I also took and passed the Google Data Analytics certification to learn how to do it but the focus was on tools to do it so learned about R and data graphics.  I recently took and passed a Linux Foundation certification test based primarily on cloud principles to learn more about Linux so I am more comfortable with the cloud shell.  I took statistics in graduate school and took several wonderful online structured class on how to set up training models so I know the fundamental on how theoretically how to do it.  I hope to attend Women in the cloud and an machine learning Google group webinars to supplement my learning.  
+      
+
+
+ 3. Use Python for two and R for one project:   I have attended several Python classes from Standford (Code in Place).  Two excellent ones from Code Louisville where I had formal projects.  I  try to update my coding by classes like recent WeloveCloud but haven't coded regularly.
+ 4.  R : I attended a formal University class that taught R but no real project using it.  The Google data analytics course certification I took recently was taught primarily with R.  I am supplementing training later with free Vanderbilt online classes and another excellent one from a Canadian library.
+ 5.  Use different graphics for each:
+                          Power Bi,  I took several short-term classes in this but have not used it except on a  limited basis).
+                          I am involved in a Power Bi PowerUp program now and a Digital program that teaches Power Bi.  
+                         
+                          Tableau: I took a Code Louisville course in data science that used Pluralsight for Tableau and watched webinars from Australian data schools. I will take a Tableau class from a university in Fall.
+
+                     Google Analytical Visual tools:  I need to learn more to use
+
+
+
+     
+     
+
+
+
+
+
+
+ 7.  Refine data. Possibly do more cleaning and analysis using SQL. I have several classes in SQl and have used it in project situations but I need to use it more effectively but prefer to focus on other areas now.
 
 
 
